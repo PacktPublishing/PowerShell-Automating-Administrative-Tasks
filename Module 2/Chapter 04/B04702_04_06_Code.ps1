@@ -1,0 +1,1 @@
+﻿Add-PswaAuthorizationRule –UserName * -ComputerName *  -ConfigurationName *

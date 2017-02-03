@@ -1,0 +1,1 @@
+﻿Uninstall-PswaWebApplication -WebApplicationName pswa -Verbose  -DeleteTestCertificate

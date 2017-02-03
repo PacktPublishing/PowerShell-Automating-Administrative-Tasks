@@ -1,0 +1,1 @@
+﻿Get-Command -Module PowerShellWebAccess

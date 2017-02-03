@@ -1,0 +1,1 @@
+﻿Invoke-RestMethod -Uri http://blogs.technet.com/b/wikininjas/rss.aspx | Select Creator , PubDate

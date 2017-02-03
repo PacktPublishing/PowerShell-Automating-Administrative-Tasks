@@ -1,0 +1,1 @@
+﻿Install-PswaWebApplication -UseTestCertificate -Verbose
