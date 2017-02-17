@@ -13,6 +13,6 @@ This is the code repository for PowerShell: Automating Administrative Tasks, pub
 * Manage files, folders, and registries through the use of PowerShell
 * Discover best practices to manage Microsoft systems
 
-###Suggestions and Feedback
+###Note
 
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
