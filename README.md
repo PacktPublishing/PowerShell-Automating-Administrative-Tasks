@@ -15,4 +15,4 @@ This is the code repository for PowerShell: Automating Administrative Tasks, pub
 
 ###Note
 
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+Modules 1, 2, and 3 have code arranged by chapter (for the chapters that have code). [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
